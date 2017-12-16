@@ -1,0 +1,10 @@
+2.50                           $2.50
+
+
+Candy     [0]     Cost: $  0.00     Tax: $ 0.00
+Cookie    [0]     Cost: $  0.00     Tax: $ 0.00
+Ice cream [1]     Cost: $  2.50
+Sundae    [0]     Cost: $  0.00
+         -----           -------         -------
+
+Subtotals [1]           $  2.50           $ 0.00
